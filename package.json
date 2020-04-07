@@ -1,0 +1,25 @@
+{
+  "name": "js-recipe-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anson1014/JS-Recipe-App.git"
+  },
+  "author": "anson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anson1014/JS-Recipe-App/issues"
+  },
+  "homepage": "https://github.com/anson1014/JS-Recipe-App#readme",
+  "devDependencies": {
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.12",
+    "webpack-dev-server": "^3.1.1"
+  },
+  "dependencies": {}
+}
